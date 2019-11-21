@@ -35,4 +35,4 @@
 # ¿Qué comando o comandos usaste en el paso 32?
   - El comando (git reflog) y (git reset `id commit`).
 # ¿Qué comando o comandos usaste en el punto 33?
-  - El comando (git checkout master), para volver al ultimo commit donde deje el HEAD.
+  - El comando (git reset title), para volver al tag donde le puse titulo a la oracion
